@@ -14,7 +14,7 @@ export const countries: Country[] = [
     language: "German",
     recipients: ["post@bmeia.gv.at"],
     subject: "Betreff: Dringende Maßnahmen erforderlich: Das Iran-Massaker vom Januar 2026 erfordert eine EU-Antwort",
-    body: `Sehr geehrte(r) ,
+    body: `Sehr geehrte(r),
 
 ich schreibe Ihnen mit einem dringenden Appell bezüglich der eskalierenden Krise im Iran und des brutalen Vorgehens gegen friedliche Demonstranten im Januar 2026. Die Welt hat mit Entsetzen die verschärfte Gewalt des Regimes der Islamischen Republik miterlebt, die zum tragischen Tod von mindestens 36.500 unschuldigen Zivilisten und der willkürlichen Verhaftung unzähliger weiterer geführt hat. Diese systematische Brutalität, die sich gegen diejenigen richtet, die mutig grundlegende Freiheiten fordern, stellt ein unbestreitbares Verbrechen gegen die Menschlichkeit und einen direkten Affront gegen demokratische Werte dar.
 
@@ -40,7 +40,7 @@ Mit freundlichen Grüßen,
     language: "French & Dutch",
     recipients: ["info.prevot@diplobel.fed.be"],
     subject: "Objet : Action urgente requise : Le massacre de l'Iran de janvier 2026 exige une réponse de l'UE",
-    body: `Madame, Monsieur ,
+    body: `Madame, Monsieur,
 
 Je vous écris pour lancer un appel urgent concernant l'escalade de la crise en Iran et la répression brutale contre les manifestants pacifiques en janvier 2026. Le monde a été témoin avec horreur de la violence intensifiée du régime de la République islamique, qui a entraîné la mort tragique d'au moins 36 500 civils innocents et la détention arbitraire d'innombrables autres. Cette brutalité systématique, ciblant ceux qui réclament courageusement les libertés fondamentales, constitue un crime indéniable contre l'humanité et un affront direct aux valeurs démocratiques.
 
@@ -58,15 +58,35 @@ Je vous remercie de votre attention immédiate à cette question critique, de vo
 
 Cordialement,
 
+[Your Name]
+
+NEDERLANDS:
+
+Ik schrijf u met een dringende oproep betreffende de escalerende crisis in Iran en het brutale optreden tegen vreedzame demonstranten in januari 2026. De wereld is met afschuw getuige geweest van het geïntensiveerde geweld van het regime van de Islamitische Republiek, dat heeft geleid tot de tragische dood van ten minste 36.500 onschuldige burgers en de willekeurige detentie van talloze anderen. Deze systematische brutaliteit, gericht tegen degenen die moedig fundamentele vrijheden eisen, vormt een onmiskenbare misdaad tegen de menselijkheid en een directe aanval op democratische waarden.
+
+Hoewel we de stappen waarderen die uw regering heeft genomen om het Islamitische Revolutionaire Gardekorps (IRGC) als terroristische organisatie aan te merken, onderstrepen de gruwelijke gebeurtenissen van januari 2026 de kritieke noodzaak van onmiddellijke en beslissende actie. Het IRGC is, samen met andere regimekrachten, direct verantwoordelijk voor het bloedbad en de wijdverbreide mensenrechtenschendingen. Hun voortdurende operatie, zowel binnen Iran als via diplomatieke kanalen in het buitenland, ondermijnt direct de wereldvrede en -veiligheid.
+
+Om het Iraanse volk echt te steunen en de daders van deze wreedheden ter verantwoording te roepen, dring ik er bij uw regering respectvol op aan om:
+
+1. Onmiddellijk alle diplomaten van de Islamitische Republiek uit uw land uit te zetten. Deze individuen zijn geen legitieme vertegenwoordigers van een natie; zij zijn agenten van een moorddadig regime dat door zijn acties tegen zijn eigen volk alle morele autoriteit heeft verspeeld.
+2. De Iraanse ambassade in uw hoofdstad permanent te sluiten. Het toestaan van de werking van deze ambassades biedt een schijn van legitimiteit en een platform voor een regime dat massamoorden heeft gepleegd en zijn burgers blijft onderdrukken met extreem geweld.
+3. Het recht op zelfbeschikking van het Iraanse volk actief te ondersteunen door Prins Reza Pahlavi te erkennen als een centrale figuur in de democratische transitie, onbeperkte internettoegang (zoals via Starlink) te faciliteren, en druk uit te oefenen om willekeurig gedetineerden vrij te laten en executies tegen te houden.
+
+De tijd voor louter verklaringen is voorbij. Het Iraanse volk wordt geconfronteerd met een existentiële bedreiging, en hun roep om hulp moet worden beantwoord met concrete actie. Door deze moedige stappen te ondernemen, zal uw land een ondubbelzinnige boodschap sturen dat de internationale gemeenschap dergelijke barbaarsheid niet zal tolereren en in onwankelbare solidariteit staat met degenen die vechten voor vrijheid.
+
+Dank u voor uw onmiddellijke aandacht voor deze kritieke kwestie, uw leiderschap en uw inzet voor gerechtigheid en mensenrechten.
+
+Met vriendelijke groet,
+
 [Your Name]`,
   },
   {
     name: "Bulgaria",
     code: "BG",
     language: "Bulgarian",
-    recipients: ["info@parliament.bg"],
+    recipients: ["priemna@mfa.bg"],
     subject: "Тема: Спешни мерки: Масакърът в Иран от януари 2026 г. изисква отговор на ЕС",
-    body: `Уважаеми [Име/Титла на получателя],
+    body: `Уважаеми,
 
 Пиша ви с спешен призив относно разрастващата се криза в Иран и жестокото потушаване на мирни протестанти през януари 2026 г. Светът е видял с ужас интензивираното насилие на режима на Исламската република, което е довело до трагичната смърт на поне 36 500 невинни цивилни и произволното задържане на безброй други. Това систематично насилие, насочено срещу тези, които смело искат основни свободи, представлява неоспоримо престъпление против човечеството и преки оскърбления на демократичните ценности.
 
@@ -90,9 +110,9 @@ Cordialement,
     name: "Croatia",
     code: "HR",
     language: "Croatian",
-    recipients: ["info@sabor.hr"],
+    recipients: ["kabinet.ministra@mvep.hr"],
     subject: "Predmet: Hitne mjere: Reznja u Iranu iz siječnja 2026. zahtijeva odgovor EU-a",
-    body: `Poštovani [Ime/Naslov primatelja],
+    body: `Poštovani,
 
 Pišem vam s hitnom apelom vezano uz eskalaciju krize u Iranu i brutalno gušenje mirnih prosvjednika u siječnju 2026. Svijet je s užasom promatrao intenzivljeno nasilje režima Islamske republike, koje je rezultiralo tragičnom smrću najmanje 36.500 nevinih civila i proizvoljnim zatvaranjem bezbroj drugih. Ovo sustavno nasilje, usmjereno prema onima koji hrabro zahtijevaju temeljne slobode, predstavlja neosporno zločin protiv čovječnosti i izravan napad na demokratske vrijednosti.
 
@@ -116,9 +136,9 @@ S poštovanjem,
     name: "Cyprus",
     code: "CY",
     language: "Greek",
-    recipients: ["info@parliament.cy"],
+    recipients: ["info@mfa.gov.cy"],
     subject: "Θέμα: Επείγουσα δράση: Το σφαγείο του Ιράν του Ιανουαρίου 2026 απαιτεί απάντηση της ΕΕ",
-    body: `Αγαπητέ [Όνομα/Τίτλος παραλήπτη],
+    body: `Αγαπητέ,
 
 Σας γράφω με επείγουσα έκκληση σχετικά με την κλιμάκωση της κρίσης στο Ιράν και την βάναυση καταστολή ειρηνικών διαδηλωτών τον Ιανουάριο του 2026. Ο κόσμος παρακολούθησε με τρόμο την εντεινόμενη βία του καθεστώτος της Ισλαμικής Δημοκρατίας, η οποία έχει οδηγήσει στον τραγικό θάνατο τουλάχιστον 36.500 αθώων αμάχων και την αυθαίρετη κράτηση αναρίθμητων άλλων. Αυτή η συστηματική βάναυσία, που στοχεύει σε εκείνους που θαρραλέα ζητούν θεμελιώδεις ελευθερίες, αποτελεί αναμφισβήτητο έγκλημα κατά της ανθρωπότητας και άμεση προσβολή των δημοκρατικών αξιών.
 
@@ -142,9 +162,9 @@ S poštovanjem,
     name: "Czech Republic",
     code: "CZ",
     language: "Czech",
-    recipients: ["info@psp.cz"],
+    recipients: ["epodatelna@mzv.cz"],
     subject: "Předmět: Naléhavá opatření: Masakr v Íránu z ledna 2026 vyžaduje odpověď EU",
-    body: `Vážený [Jméno/Titul příjemce],
+    body: `Vážený,
 
 Píšu vám s naléhavou výzvou týkající se eskalace krize v Íránu a brutálního potlačení mírných protestujících v lednu 2026. Svět s hrůzou sledoval zintenzivněné násilí režimu Islámské republiky, které vedlo k tragické smrti nejméně 36 500 nevinných civilistů a svévolnému zadržení nespočetných dalších. Toto systematické násilí, zaměřené na ty, kteří odvážně požadují základní svobody, představuje nepopiratelný zločin proti lidskosti a přímou urážku demokratických hodnot.
 
@@ -168,9 +188,9 @@ S úctou,
     name: "Denmark",
     code: "DK",
     language: "Danish",
-    recipients: ["info@ft.dk"],
+    recipients: ["udenrigsministeren@um.dk"],
     subject: "Emne: Øjeblikkelig handling påkrævet: Massakren i Iran i januar 2026 kræver EU-svar",
-    body: `Kære [Modtagers navn/titel],
+    body: `Kære,
 
 Jeg skriver til dig med en øjeblikkelig appel vedrørende den eskalerende krise i Iran og det brutale undertrykkelse af fredelige demonstranter i januar 2026. Verden har med rædsel været vidne til den islamiske republiks regimes intensiverede vold, som har resulteret i den tragiske død af mindst 36.500 uskyldige civile og vilkårlig tilbageholdelse af utallige andre. Denne systematiske brutalitet, rettet mod dem, der modigt kræver grundlæggende friheder, udgør en ubestridelig forbrydelse mod menneskeheden og en direkte fornærmelse af demokratiske værdier.
 
@@ -194,9 +214,9 @@ Med venlig hilsen,
     name: "Estonia",
     code: "EE",
     language: "Estonian",
-    recipients: ["info@riigikogu.ee"],
+    recipients: ["vminfo@vm.ee"],
     subject: "Teema: Kiiresti vajalik tegevus: Iraani jaanuari 2026 veresaun nõuab EL-i vastust",
-    body: `Arvaline [Saaja nimi/ametinimetus],
+    body: `Arvaline,
 
 Kirjutan teile kiiresti vajaliku üleskutsega seoses Iraani kriisi eskaleerumisega ja rahulike meeleavaldajate brutaalse mahasurumisega jaanuaris 2026. Maailm on kohutusega jälginud Islami Vabariigi režiimi intensiivistunud vägivallat, mis on põhjustanud vähemalt 36 500 süütute tsiviilisikute trageelilist surma ja arvukate teiste meelevaldseid kinni pidamisi. See süstemaatiline julmadus, mis on suunatud nende vastu, kes julgelt nõuavad põhivabadusi, on kahtlemata inimsusevastane kuritegu ja demokraatlike väärtuste otsene solvamine.
 
@@ -220,9 +240,9 @@ Lugupidamisega,
     name: "Finland",
     code: "FI",
     language: "Finnish",
-    recipients: ["info@eduskunta.fi"],
+    recipients: ["elina.valtonen@eduskunta.fi"],
     subject: "Aihe: Kiireellinen toiminta vaaditaan: Iranin tammikuun 2026 verilöyly vaatii EU:n vastausta",
-    body: `Arvoisa [Vastaanottajan nimi/nimike],
+    body: `Arvoisa,
 
 Kirjoitan sinulle kiireellisellä vetoomuksella Iranin kriisiin liittyen ja rauhanomaisesti mielenosoittajien julman tukahduttamisen vuoksi tammikuussa 2026. Maailma on kauhistuneena nähnyt Islamilaisen tasavallan hallinnon intensiivistyneen väkivallan, joka on johtanut vähintään 36 500 viatonta siviiliä kuolemaan ja lukemattomien muiden mielivaltaiseen pidättämiseen. Tämä järjestelmällinen julmuus, joka on suunnattu niitä vastaan, jotka rohkeasti vaativat perusvapauksia, on kiistaton rikos ihmiskuntaa vastaan ja suora loukkaavuus demokraattisia arvoja kohtaan.
 
@@ -246,9 +266,9 @@ Kunnioituksella,
     name: "France",
     code: "FR",
     language: "French",
-    recipients: ["contact@assemblee-nationale.fr"],
+    recipients: ["presse.cabinet@diplomatie.gouv.fr"],
     subject: "Objet : Action urgente requise : Le massacre de l'Iran de janvier 2026 exige une réponse de l'UE",
-    body: `Madame, Monsieur ,
+    body: `Madame, Monsieur,
 
 Je vous écris pour lancer un appel urgent concernant l'escalade de la crise en Iran et la répression brutale contre les manifestants pacifiques en janvier 2026. Le monde a été témoin avec horreur de la violence intensifiée du régime de la République islamique, qui a entraîné la mort tragique d'au moins 36 500 civils innocents et la détention arbitraire d'innombrables autres. Cette brutalité systématique, ciblant ceux qui réclament courageusement les libertés fondamentales, constitue un crime indéniable contre l'humanité et un affront direct aux valeurs démocratiques.
 
@@ -272,9 +292,9 @@ Cordialement,
     name: "Germany",
     code: "DE",
     language: "German",
-    recipients: ["info@bundestag.de"],
+    recipients: ["poststelle@auswaertiges-amt.de"],
     subject: "Betreff: Dringende Maßnahmen erforderlich: Das Iran-Massaker vom Januar 2026 erfordert eine EU-Antwort",
-    body: `Sehr geehrte(r) ,
+    body: `Sehr geehrte(r),
 
 ich schreibe Ihnen mit einem dringenden Appell bezüglich der eskalierenden Krise im Iran und des brutalen Vorgehens gegen friedliche Demonstranten im Januar 2026. Die Welt hat mit Entsetzen die verschärfte Gewalt des Regimes der Islamischen Republik miterlebt, die zum tragischen Tod von mindestens 36.500 unschuldigen Zivilisten und der willkürlichen Verhaftung unzähliger weiterer geführt hat. Diese systematische Brutalität, die sich gegen diejenigen richtet, die mutig grundlegende Freiheiten fordern, stellt ein unbestreitbares Verbrechen gegen die Menschlichkeit und einen direkten Affront gegen demokratische Werte dar.
 
@@ -298,9 +318,9 @@ Mit freundlichen Grüßen,
     name: "Greece",
     code: "GR",
     language: "Greek",
-    recipients: ["info@parliament.gr"],
+    recipients: ["grypex@mfa.gr"],
     subject: "Θέμα: Επείγουσα δράση: Το σφαγείο του Ιράν του Ιανουαρίου 2026 απαιτεί απάντηση της ΕΕ",
-    body: `Αγαπητέ [Όνομα/Τίτλος παραλήπτη],
+    body: `Αγαπητέ,
 
 Σας γράφω με επείγουσα έκκληση σχετικά με την κλιμάκωση της κρίσης στο Ιράν και την βάναυση καταστολή ειρηνικών διαδηλωτών τον Ιανουάριο του 2026. Ο κόσμος παρακολούθησε με τρόμο την εντεινόμενη βία του καθεστώτος της Ισλαμικής Δημοκρατίας, η οποία έχει οδηγήσει στον τραγικό θάνατο τουλάχιστον 36.500 αθώων αμάχων και την αυθαίρετη κράτηση αναρίθμητων άλλων. Αυτή η συστηματική βάναυσία, που στοχεύει σε εκείνους που θαρραλέα ζητούν θεμελιώδεις ελευθερίες, αποτελεί αναμφισβήτητο έγκλημα κατά της ανθρωπότητας και άμεση προσβολή των δημοκρατικών αξιών.
 
@@ -324,9 +344,9 @@ Mit freundlichen Grüßen,
     name: "Hungary",
     code: "HU",
     language: "Hungarian",
-    recipients: ["info@parlament.hu"],
+    recipients: ["kozkapcsolat@mfa.gov.hu"],
     subject: "Tárgy: Sürgős intézkedések szükségesek: Az Irán 2026. januári mészárlása megköveteli az EU válaszát",
-    body: `Tisztelt [Címzett neve/címe],
+    body: `Tisztelt,
 
 Sürgős felszólítással fordulok Önhöz az Iránban eszkalálódó válság és a békés tüntetők 2026. januári brutális leverése kapcsán. A világ borzalommal szemlélte az Iszlám Köztársaság rezsimjének intenzívebb erőszakját, amely legalább 36 500 ártatlan civil halálához és számtalan másik önkényes letartóztatásához vezetett. Ez a szisztematikus brutalitás, amely azokra irányul, akik bátran alapvető szabadságokat követelnek, vitathatatlanul az emberiség elleni bűn és a demokratikus értékek közvetlen megsértése.
 
@@ -350,9 +370,9 @@ Tisztelettel,
     name: "Ireland",
     code: "IE",
     language: "English",
-    recipients: ["info@oireachtas.ie"],
+    recipients: ["helen.mcentee@oireachtas.ie"],
     subject: "Subject: Urgent Action Required: The Iran Massacre of January 2026 Demands EU Response",
-    body: `Dear [Recipient Name/Title],
+    body: `Dear,
 
 I am writing to you with an urgent appeal regarding the escalating crisis in Iran and the brutal crackdown against peaceful protestors in January 2026. The world has witnessed with horror the Islamic Republic regime's intensified violence, which has resulted in the tragic deaths of at least 36,500 innocent civilians and the arbitrary detention of countless more. This systematic brutality, targeting those who bravely demand fundamental freedoms, constitutes an undeniable crime against humanity and a direct affront to democratic values.
 
@@ -376,9 +396,9 @@ Sincerely,
     name: "Italy",
     code: "IT",
     language: "Italian",
-    recipients: ["info@senato.it"],
+    recipients: ["dgap.segreteria@esteri.it"],
     subject: "Oggetto: Azione urgente richiesta: Il massacro in Iran del gennaio 2026 esige una risposta dell'UE",
-    body: `Gentile [Nome/Titolo del destinatario],
+    body: `Gentile,
 
 Le scrivo con un appello urgente riguardo all'escalation della crisi in Iran e alla brutale repressione contro i manifestanti pacifici nel gennaio 2026. Il mondo ha assistito con orrore all'intensificarsi della violenza del regime della Repubblica Islamica, che ha provocato la tragica morte di almeno 36.500 civili innocenti e la detenzione arbitraria di innumerevoli altri. Questa brutalità sistematica, che colpisce coloro che coraggiosamente rivendicano le libertà fondamentali, costituisce un innegabile crimine contro l'umanità e un affronto diretto ai valori democratici.
 
@@ -402,9 +422,9 @@ Cordiali saluti,
     name: "Latvia",
     code: "LV",
     language: "Latvian",
-    recipients: ["info@saeima.lv"],
+    recipients: ["minsek@mfa.gov.lv"],
     subject: "Temats: Steidzami: ES rīcība nepieciešama pret Irānas 2026. gada janvāra slaktiņu",
-    body: `Godātais(-ā) ,
+    body: `Godātais(-ā),
 
 Es rakstu Jums ar steidzamu aicinājumu saistībā ar pieaugošo krīzi Irānā un brutālo vēršanos pret miermīlīgiem protestētājiem 2026. gada janvārī. Pasaule ar šausmām ir vērojusi Islāma Republikas režīma pastiprināto vardarbību, kas ir novedusi pie traģiskas vismaz 36 500 nevainīgu civiliedzīvotāju nāves un masveida patvaļīgas aizturēšanas. Šī sistemātiskā brutalitāte, kas vērsta pret tiem, kuri drosmīgi pieprasa pamatbrīvības, ir nenoliedzams noziegums pret cilvēci un tiešs apvainojums demokrātiskajām vērtībām.
 
@@ -428,9 +448,9 @@ Ar cieņu,
     name: "Lithuania",
     code: "LT",
     language: "Lithuanian",
-    recipients: ["info@lrs.lt"],
+    recipients: ["minister@urm.lt"],
     subject: "Tema: Skubios priemonės: Irano 2026 m. sausio žudynės reikalauja ES atsakymo",
-    body: `Gerbiamas(-a) [Gavėjo vardas/pareiga],
+    body: `Gerbiamas(-a),
 
 Rašau Jums skubiu prašymu dėl Irane eskaluojančios krizės ir graudžios taikiųjų protestuotojų represijos 2026 m. sausį. Pasaulis su siaubu stebėjo Islamo Respublikos režimo intensyvėjusią smurtą, dėl kurios žuvo bent 36 500 nekalčių civilių ir buvo savavališkai suimta nemaža daugybė kitų. Šis sistemingas žiaurumas, nukreiptas prieš tuos, kurie drąsiai reikalauja pagrindinių laisvių, yra neabejotinas nusikaltimas žmonijai ir tiesioginis demokratinių vertybių įžeidimas.
 
@@ -454,9 +474,9 @@ Pagarbiai,
     name: "Luxembourg",
     code: "LU",
     language: "French",
-    recipients: ["info@chd.lu"],
+    recipients: ["boite.officielle@mae.etat.lu"],
     subject: "Objet : Action urgente requise : Le massacre de l'Iran de janvier 2026 exige une réponse de l'UE",
-    body: `Madame, Monsieur ,
+    body: `Madame, Monsieur,
 
 Je vous écris pour lancer un appel urgent concernant l'escalade de la crise en Iran et la répression brutale contre les manifestants pacifiques en janvier 2026. Le monde a été témoin avec horreur de la violence intensifiée du régime de la République islamique, qui a entraîné la mort tragique d'au moins 36 500 civils innocents et la détention arbitraire d'innombrables autres. Cette brutalité systématique, ciblant ceux qui réclament courageusement les libertés fondamentales, constitue un crime indéniable contre l'humanité et un affront direct aux valeurs démocratiques.
 
@@ -480,9 +500,9 @@ Cordialement,
     name: "Malta",
     code: "MT",
     language: "English",
-    recipients: ["info@parliament.mt"],
+    recipients: ["ian.borg@gov.mt"],
     subject: "Subject: Urgent Action Required: The Iran Massacre of January 2026 Demands EU Response",
-    body: `Dear [Recipient Name/Title],
+    body: `Dear,
 
 I am writing to you with an urgent appeal regarding the escalating crisis in Iran and the brutal crackdown against peaceful protestors in January 2026. The world has witnessed with horror the Islamic Republic regime's intensified violence, which has resulted in the tragic deaths of at least 36,500 innocent civilians and the arbitrary detention of countless more. This systematic brutality, targeting those who bravely demand fundamental freedoms, constitutes an undeniable crime against humanity and a direct affront to democratic values.
 
@@ -506,9 +526,9 @@ Sincerely,
     name: "Netherlands",
     code: "NL",
     language: "Dutch",
-    recipients: ["info@tweedekamer.nl"],
+    recipients: ["persvragen@minbuza.nl"],
     subject: "Onderwerp: Dringende actie vereist: Het bloedbad in Iran van januari 2026 vraagt om een EU-reactie",
-    body: `Geachte [Naam/Titel ontvanger],
+    body: `Geachte,
 
 Ik schrijf u met een dringende oproep betreffende de escalerende crisis in Iran en het brutale optreden tegen vreedzame demonstranten in januari 2026. De wereld is met afschuw getuige geweest van het geïntensiveerde geweld van het regime van de Islamitische Republiek, dat heeft geleid tot de tragische dood van ten minste 36.500 onschuldige burgers en de willekeurige detentie van talloze anderen. Deze systematische brutaliteit, gericht tegen degenen die moedig fundamentele vrijheden eisen, vormt een onmiskenbare misdaad tegen de menselijkheid en een directe aanval op democratische waarden.
 
@@ -532,9 +552,9 @@ Met vriendelijke groet,
     name: "Poland",
     code: "PL",
     language: "Polish",
-    recipients: ["info@sejm.gov.pl"],
+    recipients: ["bm.sekretariat@msz.gov.pl"],
     subject: "Temat: Pilne działania wymagane: Masakra w Iranie ze stycznia 2026 r. wymaga odpowiedzi UE",
-    body: `Szanowny Panie [Imię/Tytuł odbiorcy],
+    body: `Szanowny Panie,
 
 Piszę do Pana z pilnym apelem dotyczącym eskalacji kryzysu w Iranie i brutalnego stłumienia pokojowych protestów w styczniu 2026 r. Świat z przerażeniem obserwował wzmocnioną przemoc reżimu Republiki Islamskiej, która doprowadziła do tragicznej śmierci co najmniej 36 500 niewinnych cywilów i arbitralnego zatrzymania niezliczonych innych. Ta systematyczna brutalność, skierowana przeciwko tym, którzy odważnie domagają się podstawowych wolności, stanowi niepodważalny zbrodnię przeciwko ludzkości i bezpośredni afront wobec wartości demokratycznych.
 
@@ -558,9 +578,9 @@ Z poważaniem,
     name: "Portugal",
     code: "PT",
     language: "Portuguese",
-    recipients: ["info@ar.parlamento.pt"],
+    recipients: ["secgeral@mne.pt"],
     subject: "Assunto: Ação urgente necessária: O massacre do Irã de janeiro de 2026 exige uma resposta da UE",
-    body: `Prezado(a) [Nome/Título do destinatário],
+    body: `Prezado(a),
 
 Escrevo a você com um apelo urgente sobre a crise crescente no Irã e a repressão brutal contra manifestantes pacíficos em janeiro de 2026. O mundo testemunhou com horror a violência intensificada do regime da República Islâmica, que resultou na morte trágica de pelo menos 36.500 civis inocentes e na detenção arbitrária de inúmeros outros. Essa brutalidade sistemática, direcionada àqueles que corajosamente exigem liberdades fundamentais, constitui um crime inegável contra a humanidade e um ultraje direto aos valores democráticos.
 
@@ -584,9 +604,9 @@ Atenciosamente,
     name: "Romania",
     code: "RO",
     language: "Romanian",
-    recipients: ["info@cdep.ro"],
+    recipients: ["ministru@mae.ro"],
     subject: "Subiect: Acțiuni urgente necesare: Masacrul din Iran din ianuarie 2026 necesită un răspuns al UE",
-    body: `Stimate [Nume/Titlu destinatar],
+    body: `Stimate,
 
 Vă scriu cu un apel urgent privind criza în escaladă din Iran și represiunea brutală împotriva protestatarilor pașnici în ianuarie 2026. Lumea a fost martora cu groază a violenței intensificate a regimului Republicii Islamice, care a dus la moartea tragică a cel puțin 36.500 de civili nevinovați și la detenția arbitrară a nenumărați alții. Această brutalitate sistematică, care vizează pe cei care curajos cer libertăți fundamentale, constituie un crime incontestabil împotriva umanității și o ofensă directă la valorile democratice.
 
@@ -610,9 +630,9 @@ Cu respect,
     name: "Slovakia",
     code: "SK",
     language: "Slovak",
-    recipients: ["info@nrsr.sk"],
+    recipients: ["info@mzv.sk"],
     subject: "Predmet: Naliehavé opatrenia: Masakra v Iráne z januára 2026 si vyžaduje odpoveď EÚ",
-    body: `Vážený [Meno/Titul príjemcu],
+    body: `Vážený,
 
 Píšem vám s naliehavou výzvou týkajúcou sa eskalácie krízy v Iráne a brutálneho potlačenia miernych protestov v januári 2026. Svet s hrôzou sledoval zintenzívnené násilie režimu Islamskej republiky, ktoré viedlo k tragickej smrti najmenej 36 500 nevinných civilistov a svojvoľnému zadržaniu nespočetných ďalších. Toto systematické násilí, zamerané na tých, ktorí odvážne požadujú základné slobody, predstavuje nepopierateľný zločin proti ľudskosti a priamu urážku demokratických hodnôt.
 
@@ -636,9 +656,9 @@ S úctou,
     name: "Slovenia",
     code: "SI",
     language: "Slovenian",
-    recipients: ["info@dz-rs.si"],
+    recipients: ["gp.mzez@gov.si"],
     subject: "Zadeva: Nujni ukrepi: Pokol v Iranu januarja 2026 zahteva odgovor EU",
-    body: `Spoštovani [Ime/Naziv prejemnika],
+    body: `Spoštovani,
 
 Pišem vam z nujnim pozivom v zvezi z eskalacijo krize v Iranu in brutalnim zatiranjem mirnih protestnikov januarja 2026. Svet je s strahom spremljal intenzivljeno nasilje režima Islamske republike, ki je pripeljalo do tragične smrti najmanj 36.500 nedolžnih civilistov in samovoljnega zapora neštetih drugih. To sistematično brutalnost, usmerjeno proti tistim, ki pogumno zahtevajo temeljne svobode, predstavlja nesporno zločin proti človeštvu in neposredno žalitev demokratičnih vrednot.
 
@@ -662,9 +682,9 @@ S spoštovanjem,
     name: "Spain",
     code: "ES",
     language: "Spanish",
-    recipients: ["info@congreso.es"],
+    recipients: ["gabinete.ministro@maec.es"],
     subject: "Asunto: Acción urgente requerida: La masacre de Irán de enero de 2026 exige una respuesta de la UE",
-    body: `Estimado/a [Nombre/Título del destinatario]:
+    body: `Estimado/a,
 
 Le escribo con un llamamiento urgente con respecto a la escalada de la crisis en Irán y la brutal represión contra los manifestantes pacíficos en enero de 2026. El mundo ha sido testigo con horror de la intensificación de la violencia del régimen de la República Islámica, que ha resultado en la trágica muerte de al menos 36.500 civiles inocentes y la detención arbitraria de innumerables más. Esta violencia sistemática, dirigida a quienes valientemente exigen libertades fundamentales, constituye un crimen innegable contra la humanidad y una afrenta directa a los valores democráticos.
 
@@ -688,9 +708,9 @@ Atentamente,
     name: "Sweden",
     code: "SE",
     language: "Swedish",
-    recipients: ["riksdag@riksdag.se"],
+    recipients: ["ud.registrator@gov.se"],
     subject: "Ämne: Brådskande åtgärder krävs: Massakern i Iran i januari 2026 kräver ett svar från EU",
-    body: `Bästa [Mottagarens namn/titel],
+    body: `Bästa,
 
 Jag skriver till dig med en brådskande vädjan angående den eskalerande krisen i Iran och det brutala tillslaget mot fredliga demonstranter i januari 2026. Världen har med fasa bevittnat den islamiska republikens regims intensifierade våld, vilket har resulterat i den tragiska döden av minst 36 500 oskyldiga civila och godtyckliga frihetsberövanden av otaliga fler. Denna systematiska brutalitet, som riktar sig mot dem som modigt kräver grundläggande friheter, utgör ett obestridligt brott mot mänskligheten och en direkt förolämpning mot demokratiska värderingar.
 
@@ -719,5 +739,6 @@ export function generateMailtoLink(
   const subject = encodeURIComponent(country.subject);
   const capitalizedName = senderName.charAt(0).toUpperCase() + senderName.slice(1);
   const body = encodeURIComponent(country.body.replace("[Your Name]", capitalizedName));
-  return `mailto:${country.recipients[0]}?subject=${subject}&body=${body}`;
+  const body1 = encodeURIComponent(body).replace(/%0A/g, "%0D%0A");
+  return `mailto:${country.recipients[0]}?subject=${subject}&body=${body1}`;
 }
