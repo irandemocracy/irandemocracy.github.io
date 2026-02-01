@@ -740,13 +740,12 @@ export function generateMailtoLink(
   const subject = encodeURIComponent(country.subject);
   const capitalizedName = senderName.charAt(0).toUpperCase() + senderName.slice(1);
 
-  // Replace name, then swap all invisible line breaks with %0A
-  const formattedBody = country.body
-    .replace("[Your Name]", capitalizedName)
-    .replace(/\r?\n/g, "%0A"); // This catches both Windows (\r\n) and Unix (\n) breaks
+  // 1. Replace the name placeholder first
+  const fullText = country.body.replace("[Your Name]", capitalizedName);
 
-  // Now we encode the whole thing so spaces and special characters are URL-safe
-  const body = encodeURIComponent(formattedBody);
+  // 2. Just encode the text as-is. 
+  // encodeURIComponent handles standard newlines (\n) correctly for most modern clients, including Gmail.
+  const body = encodeURIComponent(fullText);
 
   return `mailto:${country.recipients[0]}?subject=${subject}&body=${body}`;
 }
