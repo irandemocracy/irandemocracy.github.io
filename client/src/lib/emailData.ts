@@ -737,13 +737,11 @@ export function generateMailtoLink(
 ): string {
   const subject = encodeURIComponent(country.subject);
   const capitalizedName = senderName.charAt(0).toUpperCase() + senderName.slice(1);
-
-  // 1. Replace the name placeholder first
   const fullText = country.body.replace("[Your Name]", capitalizedName);
-
-  // 2. Just encode the text as-is. 
-  // encodeURIComponent handles standard newlines (\n) correctly for most modern clients, including Gmail.
   const body = encodeURIComponent(fullText);
-
-  return `mailto:${country.recipients[0]}?subject=${subject}&body=${body}`;
+  
+  // Encode the recipient email address
+  const recipient = encodeURIComponent(country.recipients[0]);
+  
+  return `mailto:${recipient}?subject=${subject}&body=${body}`;
 }
