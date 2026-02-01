@@ -14,7 +14,7 @@ export const countries: Country[] = [
     language: "German",
     recipients: ["post@bmeia.gv.at"],
     subject: "Betreff: Dringende Maßnahmen erforderlich: Das Iran-Massaker vom Januar 2026 erfordert eine EU-Antwort",
-    body: `Sehr geehrte(r) ,
+    body: `Sehr geehrte(r),
 
 ich schreibe Ihnen mit einem dringenden Appell bezüglich der eskalierenden Krise im Iran und des brutalen Vorgehens gegen friedliche Demonstranten im Januar 2026. Die Welt hat mit Entsetzen die verschärfte Gewalt des Regimes der Islamischen Republik miterlebt, die zum tragischen Tod von mindestens 36.500 unschuldigen Zivilisten und der willkürlichen Verhaftung unzähliger weiterer geführt hat. Diese systematische Brutalität, die sich gegen diejenigen richtet, die mutig grundlegende Freiheiten fordern, stellt ein unbestreitbares Verbrechen gegen die Menschlichkeit und einen direkten Affront gegen demokratische Werte dar.
 
@@ -40,7 +40,7 @@ Mit freundlichen Grüßen,
     language: "French & Dutch",
     recipients: ["info.prevot@diplobel.fed.be"],
     subject: "Objet : Action urgente requise : Le massacre de l'Iran de janvier 2026 exige une réponse de l'UE",
-    body: `Madame, Monsieur ,
+    body: `Madame, Monsieur,
 
 Je vous écris pour lancer un appel urgent concernant l'escalade de la crise en Iran et la répression brutale contre les manifestants pacifiques en janvier 2026. Le monde a été témoin avec horreur de la violence intensifiée du régime de la République islamique, qui a entraîné la mort tragique d'au moins 36 500 civils innocents et la détention arbitraire d'innombrables autres. Cette brutalité systématique, ciblant ceux qui réclament courageusement les libertés fondamentales, constitue un crime indéniable contre l'humanité et un affront direct aux valeurs démocratiques.
 
@@ -739,6 +739,5 @@ export function generateMailtoLink(
   const subject = encodeURIComponent(country.subject);
   const capitalizedName = senderName.charAt(0).toUpperCase() + senderName.slice(1);
   const body = encodeURIComponent(country.body.replace("[Your Name]", capitalizedName));
-  const body = encodeURIComponent(body).replace(/%0A/g, "%0D%0A");
   return `mailto:${country.recipients[0]}?subject=${subject}&body=${body}`;
 }
