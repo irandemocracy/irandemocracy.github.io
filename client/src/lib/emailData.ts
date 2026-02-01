@@ -737,8 +737,15 @@ export function generateMailtoLink(
   senderName: string
 ): string {
   const subject = encodeURIComponent(country.subject);
-  const capitalizedName = senderName.charAt(0).toUpperCase() + senderName.slice(1);
-  const body = encodeURIComponent(country.body.replace("[Your Name]", capitalizedName));
-  const body1 = encodeURIComponent(body).replace(/%0A/g, "%0D%0A");
-  return `mailto:${country.recipients[0]}?subject=${subject}&body=${body1}`;
+
+  const capitalizedName =
+    senderName.charAt(0).toUpperCase() + senderName.slice(1);
+
+  const rawBody = country.body
+    .replace(/\\n/g, "\n")
+    .replace("[Your Name]", capitalizedName);
+
+  const body = encodeURIComponent(rawBody).replace(/%0D%0A|%0D|%0A/g, "%0A");
+
+  return `mailto:${country.recipients[0]}?subject=${subject}&body=${body}`;
 }
