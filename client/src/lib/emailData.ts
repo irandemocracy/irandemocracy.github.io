@@ -42,6 +42,7 @@ Mit freundlichen Grüßen,
     subject: "Objet : Action urgente requise : Le massacre de l'Iran de janvier 2026 exige une réponse de l'UE",
     body: `Madame, Monsieur,
 
+    ** NEDERLANDS BENEDEN**
 Je vous écris pour lancer un appel urgent concernant l'escalade de la crise en Iran et la répression brutale contre les manifestants pacifiques en janvier 2026. Le monde a été témoin avec horreur de la violence intensifiée du régime de la République islamique, qui a entraîné la mort tragique d'au moins 36 500 civils innocents et la détention arbitraire d'innombrables autres. Cette brutalité systématique, ciblant ceux qui réclament courageusement les libertés fondamentales, constitue un crime indéniable contre l'humanité et un affront direct aux valeurs démocratiques.
 
 Bien que nous appréciions les mesures prises par votre gouvernement pour désigner le Corps des Gardiens de la révolution islamique (CGRI) comme organisation terroriste, les événements horribles de janvier 2026 soulignent la nécessité critique d'une action immédiate et décisive. Le CGRI, ainsi que d'autres forces du régime, est directement responsable du massacre et des violations généralisées des droits de l'homme. Leur fonctionnement continu, tant en Iran que par le biais des canaux diplomatiques à l'étranger, sape directement la paix et la sécurité mondiales.
@@ -76,9 +77,7 @@ De tijd voor louter verklaringen is voorbij. Het Iraanse volk wordt geconfrontee
 
 Dank u voor uw onmiddellijke aandacht voor deze kritieke kwestie, uw leiderschap en uw inzet voor gerechtigheid en mensenrechten.
 
-Met vriendelijke groet,
-
-[Your Name]`,
+Met vriendelijke groet,`,
   },
   {
     name: "Bulgaria",

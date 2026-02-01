@@ -76,9 +76,7 @@ De tijd voor louter verklaringen is voorbij. Het Iraanse volk wordt geconfrontee
 
 Dank u voor uw onmiddellijke aandacht voor deze kritieke kwestie, uw leiderschap en uw inzet voor gerechtigheid en mensenrechten.
 
-Met vriendelijke groet,
-
-[Your Name]`,
+Met vriendelijke groet,`,
   },
   {
     name: "Bulgaria",
