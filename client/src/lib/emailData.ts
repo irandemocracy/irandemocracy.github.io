@@ -58,6 +58,26 @@ Je vous remercie de votre attention immédiate à cette question critique, de vo
 
 Cordialement,
 
+[Your Name]
+
+NEDERLANDS:
+
+Ik schrijf u met een dringende oproep betreffende de escalerende crisis in Iran en het brutale optreden tegen vreedzame demonstranten in januari 2026. De wereld is met afschuw getuige geweest van het geïntensiveerde geweld van het regime van de Islamitische Republiek, dat heeft geleid tot de tragische dood van ten minste 36.500 onschuldige burgers en de willekeurige detentie van talloze anderen. Deze systematische brutaliteit, gericht tegen degenen die moedig fundamentele vrijheden eisen, vormt een onmiskenbare misdaad tegen de menselijkheid en een directe aanval op democratische waarden.
+
+Hoewel we de stappen waarderen die uw regering heeft genomen om het Islamitische Revolutionaire Gardekorps (IRGC) als terroristische organisatie aan te merken, onderstrepen de gruwelijke gebeurtenissen van januari 2026 de kritieke noodzaak van onmiddellijke en beslissende actie. Het IRGC is, samen met andere regimekrachten, direct verantwoordelijk voor het bloedbad en de wijdverbreide mensenrechtenschendingen. Hun voortdurende operatie, zowel binnen Iran als via diplomatieke kanalen in het buitenland, ondermijnt direct de wereldvrede en -veiligheid.
+
+Om het Iraanse volk echt te steunen en de daders van deze wreedheden ter verantwoording te roepen, dring ik er bij uw regering respectvol op aan om:
+
+1. Onmiddellijk alle diplomaten van de Islamitische Republiek uit uw land uit te zetten. Deze individuen zijn geen legitieme vertegenwoordigers van een natie; zij zijn agenten van een moorddadig regime dat door zijn acties tegen zijn eigen volk alle morele autoriteit heeft verspeeld.
+2. De Iraanse ambassade in uw hoofdstad permanent te sluiten. Het toestaan van de werking van deze ambassades biedt een schijn van legitimiteit en een platform voor een regime dat massamoorden heeft gepleegd en zijn burgers blijft onderdrukken met extreem geweld.
+3. Het recht op zelfbeschikking van het Iraanse volk actief te ondersteunen door Prins Reza Pahlavi te erkennen als een centrale figuur in de democratische transitie, onbeperkte internettoegang (zoals via Starlink) te faciliteren, en druk uit te oefenen om willekeurig gedetineerden vrij te laten en executies tegen te houden.
+
+De tijd voor louter verklaringen is voorbij. Het Iraanse volk wordt geconfronteerd met een existentiële bedreiging, en hun roep om hulp moet worden beantwoord met concrete actie. Door deze moedige stappen te ondernemen, zal uw land een ondubbelzinnige boodschap sturen dat de internationale gemeenschap dergelijke barbaarsheid niet zal tolereren en in onwankelbare solidariteit staat met degenen die vechten voor vrijheid.
+
+Dank u voor uw onmiddellijke aandacht voor deze kritieke kwestie, uw leiderschap en uw inzet voor gerechtigheid en mensenrechten.
+
+Met vriendelijke groet,
+
 [Your Name]`,
   },
   {
